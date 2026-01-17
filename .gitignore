@@ -68,12 +68,8 @@ env/
 # Streamlit
 .streamlit/
 
-# Data files (CSV)
-data/*.csv
-
-# Jupyter Notebook
+# Jupyter Notebook checkpoints only (notebooks themselves should be included)
 .ipynb_checkpoints/
-*.ipynb
 
 # Coverage
 htmlcov/
